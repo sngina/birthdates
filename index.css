@@ -1,3 +1,19 @@
 body{
-    background-image:url()
+    background-image:url(images.jpeg);
+    background-size: cover;
+    width: 100%;
+    box-sizing: border-box;
+    height: 400px;
+}
+.row{
+    text-align: center;
+    justify-content: center;
+}
+#name{
+    text-align: center;
+    justify-content: center;
+}
+.form{
+    text-align: center;
+    justify-content: center;
 }
