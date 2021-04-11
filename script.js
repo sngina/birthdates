@@ -59,7 +59,7 @@ var date = new Date(combinedDate);
   }
   
   if(dayBorn==6){
-      alert("You were born on "+days[6]+" and your Akan name is "+femaleName[6])
+      alert("You were born on "+weekDay[6]+" and your Akan name is "+femaleName[6])
   }
 }
 }
