@@ -17,13 +17,13 @@ var date = new Date(combinedDate);
     let dayBorn = date.getDay();
   if(gender=="Male"){
       if(dayBorn==0){
-          alert(+" You were born on "+weekDays[0]+" and your Akan name is "+maleNames[0])
+          alert(+" You were born on "+weekDays[0]+" and your Akan name is "+ maleNames[0])
       }
       if(dayBorn==1){
-        alert("You were born on "+weekDay[1]+" and your Akan name is "+maleNames[1])
+        alert("You were born on "+weekDay[1]+" and your Akan name is "+ maleNames[1])
     }
     if(dayBorn==2){
-        alert("You were born on "+days[0]+" and your Akan name is "+akanMale[2])
+        alert("You were born on "+weekDay[0]+" and your Akan name is "+ maleNames[2])
     }
     if(dayBorn==3){
         alert("You were born on "+days[0]+" and your Akan name is "+akanMale[3])
