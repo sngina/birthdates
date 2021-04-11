@@ -17,14 +17,13 @@ body{
     justify-content:center;
 }
 
- .label{ 
-    text-align: center;
-    justify-content: center;
-} 
-
 .select{
-    text-align: left;
-    justify-content:left;
+    text-align: center;
+    justify-content:center;
+}
+.label{
+     text-align: center;
+     justify-content: center;
 }
  .submit{
      justify-content:space-around;
