@@ -1,30 +1,25 @@
-Birth Dates
-
- 
-This a project where you are supposed to add your details like names date of birth and submit then it will bring your Akan name , 2021
-By Stella Ngina
-
-
-Description
-
-
-This is a project that is supposed to give you an Akan name once you feel your details and submit it.
-
-Setup/Installation Requirements
-
-Clone the repo  https://sngina.github.io/birthdates/$ cd ../path/to/the/file $ npm install $ npm start
-Live link
-https://sngina.github.io/birthdates/
+# Birth Dates
+#### This a portfolio that explains more about Stella ,  2021
+#### By **Stella Ngina**
+## Description
+This is a portfolio that has  background information and education information about Stella and some of her hobbies.
+## Setup/Installation Requirements
+* Clone the repo https://sngina.github.io/Stella-Portfolio/
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
 
 
-Known Bugs
-There are no known bugs.
 
-Technologies Used
-The languages used are HTML and CSS and Bootstrap
-
-Support and contact details
+## Live link
+https://sngina.github.io/Stella-Portfolio/
+## Known Bugs
+There are no known bugs. 
+## Technologies Used
+The languages used are HTML and CSS.
+## Support and contact details
 In case of any issues or bugs you can contact me through my email address sngina707@gmail.com.
+### License
 
-License
-This is under the MIT license Copyright (c) 2021 Stella Ngina
+This is under the [MIT](LICENSE) license
+Copyright (c) 2021 **Stella Ngina** 

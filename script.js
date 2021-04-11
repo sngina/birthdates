@@ -12,7 +12,7 @@ var month = document.querySelector("#month").value;
 //changing the string to a number
 var DOB2 = parseInt(DOB);
 var combinedDate = month+" "+DOB2+" "+year;
-var date = new Date(combinedDate);
+var date = new Date(combinedDate); 
     let dayBorn = date.getDay();
   if(gender=="Male"){
       if(dayBorn==0){
