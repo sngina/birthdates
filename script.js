@@ -20,7 +20,7 @@ var date = new Date(combinedDate);
           alert(+" You were born on "+weekDays[0]+" and your Akan name is "+maleNames[0])
       }
       if(dayBorn==1){
-        alert("You were born on "+days[1]+" and your Akan name is "+akanMale[1])
+        alert("You were born on "+weekDay[1]+" and your Akan name is "+maleNames[1])
     }
     if(dayBorn==2){
         alert("You were born on "+days[0]+" and your Akan name is "+akanMale[2])
