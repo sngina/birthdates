@@ -4,27 +4,26 @@ body{
     width: 100%;
     box-sizing: border-box;
     height: 400px;
-    margin: 50px 0px;padding: 0px;
+    margin: 50px 0px;
+    padding: 0px;
 }
 .row{
-    text-align: center;
-    justify-content: center;
-    padding-right: 20px;
+    text-align:center;
+    justify-content:flex-end;
+    
 }
 #name{
-    text-align: center;
-    justify-content: center;
+    text-align:center;
+    justify-content:center;
 }
 
-.label{
+ .label{ 
     text-align: center;
     justify-content: center;
-}
+} 
 .select{
-    justify-content: center;
-    text-align: center;
+    
 }
  .submit{
-     text-align: center;
-     justify-content: center;
+     justify-content:space-around;
  }
