@@ -15,7 +15,7 @@ $ npm start
 https://sngina.github.io/birthdates/
 ## Known Bugs
 There are no known bugs.
-# Behaviour Driven Development2
+# Behaviour Driven Development
 1. Displays Form For Entering Date And Gender
  .INPUT : "Uses  Birthdate Entered "
  .INPUT : "Uses Gender Entered "
